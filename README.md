@@ -9,5 +9,5 @@ This repository is a collection of all the writeups that I have written for each
 
 | Number | Name | Difficulty | OS | Release Date | |
 | --- | --- | --- | --- | --- | --- |
-| 001 | Blackfield | Hard | Windows | 14/03/2017 | [Walk-through](./ctfs/blackfield.md) |
+| 001 | Blackfield | Hard | Windows | 6/06/2020 | [Walk-through](./ctfs/blackfield.md) |
 
