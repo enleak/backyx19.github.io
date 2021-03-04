@@ -1,7 +1,7 @@
 # CTF Writeups
 
 
-<img src="images/htb.png">
+<img src="/assets/images/images/htb.png">
 
 | Number | Name | Difficulty | OS | Release Date | |
 | --- | --- | --- | --- | --- | --- |
