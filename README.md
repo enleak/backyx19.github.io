@@ -1,7 +1,7 @@
 # CTF Writeups
 
 
-<img src="/assets/images/images/htb.png">
+<img src="backyx19.github.io/assets/images/images/htb.png">
 
 | Number | Name | Difficulty | OS | Release Date | |
 | --- | --- | --- | --- | --- | --- |
