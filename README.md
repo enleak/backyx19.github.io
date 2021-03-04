@@ -1,7 +1,7 @@
 # CTF Writeups
 
 
-![htb](https://github.com/backyx19/backyx19.io/blob/main/assets/images/htb.png)
+<img src="https://github.com/backyx19/backyx19.io/blob/main/assets/images/htb.png">
 
 | Number | Name | Difficulty | OS | Release Date | |
 | --- | --- | --- | --- | --- | --- |
