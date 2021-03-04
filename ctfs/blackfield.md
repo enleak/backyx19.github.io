@@ -143,7 +143,7 @@ WINRM       10.10.10.192    5985   DC01             [-] BLACKFIELD\support:#00^B
 - Mark user: `support` as **owned** and **high-value target**
 - The two users I want to analyze are `support` and `audit2020`
 
-<img src="https://github.com/backyx19/backyx19.github.io/blob/main/images/bloodhound.png">
+<img src="./images/bloodhound.png">
 
 - We can change audit2020 password w/o knowing current password
 - No interactive shell to change password using powershell so **Alternative:** rpcclient using `setuserinfo2`
