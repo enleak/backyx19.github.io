@@ -1,7 +1,7 @@
 # CTF Writeup
 
 
-![htb](/assets/images/2020-05-28-23-10-35.png)
+![htb](https://github.com/backyx19/backyx19.io/blob/main/assets/images/htb.png)
 
 These are all retired machines, which you can only access if you have a VIP membership. More info at [HackTheBox](https://www.hackthebox.eu/home).
 
