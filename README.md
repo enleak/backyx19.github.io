@@ -4,7 +4,7 @@ This repository is a collection of all the writeups that I have written for each
 
 ### Author
 
-[0xNirvana](https://tryhackme.com/p/0xNirvana)
+[backy](https://www.hackthebox.eu/home/users/profile/492944)
 
 
 | Number | Name | Difficulty | OS | Release Date | |
