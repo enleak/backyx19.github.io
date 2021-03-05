@@ -14,4 +14,4 @@ Collection of all the writeups that I have written for each and every room/machi
 | Number | Name | Difficulty | OS | Release Date | |
 | --- | --- | --- | --- | --- | --- |
 | 001 | Blackfield | Hard | Windows | 6/06/2020 | [Walk-through](./ctfs/blackfield.md) |
-
+| 002 | Laboratory | Easy | Linux   | 11/14/2020 | [Walk-through](./ctfs/laboratory.md) |
